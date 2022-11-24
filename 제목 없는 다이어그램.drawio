@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T12:40:53.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Y8YXXwiXdZqdryK612m_" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T12:41:55.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0UDNszwYaeP1pn9FzwY-" version="20.6.0" type="github">
   <diagram id="9-6xW6rfC3gySnhfwHB-" name="페이지-1">
     <mxGraphModel dx="1422" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,23 +20,6 @@
         </mxCell>
         <mxCell id="75-OL8s8YgrFIvC_JKFy-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;integer&lt;br&gt;&lt;br&gt;integer&lt;br&gt;&lt;br&gt;char(50)&lt;br&gt;&lt;br&gt;URL(200)&lt;br&gt;&lt;br&gt;text&lt;br&gt;&lt;br&gt;text&lt;br&gt;&lt;br&gt;text&lt;br&gt;&lt;br&gt;integer&lt;br&gt;&lt;br&gt;float&lt;br&gt;&lt;br&gt;integer&lt;br&gt;&lt;br&gt;integer&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="180" width="120" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="75-OL8s8YgrFIvC_JKFy-7" value="movies_genre" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790.0000000000005" y="1770" width="240" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="75-OL8s8YgrFIvC_JKFy-8" value="id" style="swimlane;startSize=20;html=1;" parent="75-OL8s8YgrFIvC_JKFy-7" vertex="1">
-          <mxGeometry y="20" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="75-OL8s8YgrFIvC_JKFy-9" value="type" style="swimlane;startSize=20;html=1;" parent="75-OL8s8YgrFIvC_JKFy-7" vertex="1">
-          <mxGeometry x="120" y="20" width="120" height="80" as="geometry">
-            <mxRectangle x="120" y="20" width="40" height="460" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="75-OL8s8YgrFIvC_JKFy-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;id&lt;br&gt;&lt;br&gt;genre&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="1810" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="75-OL8s8YgrFIvC_JKFy-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;integer&lt;br&gt;&lt;br&gt;char(30)&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="75-OL8s8YgrFIvC_JKFy-12" value="movies_movie_genres" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
           <mxGeometry x="520.0000000000005" y="180" width="240" height="140" as="geometry" />
